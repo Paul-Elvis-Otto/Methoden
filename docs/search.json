@@ -26,5 +26,12 @@
     "title": "Skalierungsverfahren",
     "section": "",
     "text": "Test"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website-Merge",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
 ]
