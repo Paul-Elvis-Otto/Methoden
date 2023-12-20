@@ -7,13 +7,12 @@ website:
     style: "floating"
     search: true
     contents:
-      - Einleitung.qmd
+      - index.qmd
 
 
       - section: "R und Statistik"
         contents:
           - R_und_Statistik/Skalierungsverfahren.qmd
-          - index.qmd
           - R_und_Statistik/univariante-Analyse.qmd
           - basics-jupyter.qmd
 
