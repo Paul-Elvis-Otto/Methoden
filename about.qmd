@@ -1,0 +1,6 @@
+---
+title: "About"
+---
+
+Diese website soll einen besseren überblick über die Politikwissenschaftlichen Methoden geben. 
+Erstellt wurde sie im Rahmen der Methodenlehre an der Universität Marburg im Wintersemester 2023/24. 
