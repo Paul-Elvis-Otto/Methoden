@@ -1,0 +1,20 @@
+{
+  "about.qmd": {
+    "about.html": "1a1a0f22"
+  },
+  "index.qmd": {
+    "index.html": "bea47c32"
+  },
+  "R_und_Statistik/univariante-Analyse.qmd": {
+    "univariante-Analyse.html": "25e28053"
+  },
+  "Einleitung.qmd": {
+    "Einleitung.html": "864e699c"
+  },
+  "Übungsaufgaben/ChatGPT.qmd": {
+    "ChatGPT.html": "71016103"
+  },
+  "Übungsaufgaben/Ilias.qmd": {
+    "Ilias.html": "2665850a"
+  }
+}

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Diese website soll einen besseren überblick über die Politikwissenschaftlichen Methoden geben. Erstellt wurde sie im Rahmen der Methodenlehre an der Universität Marburg im Wintersemester 2023/24."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Website-Merge",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "Einleitung.html",
+    "href": "Einleitung.html",
+    "title": "Einleitung",
+    "section": "",
+    "text": "Diese Website ist der inoffizielle Leitfaden für die Methoden der Politikwissenscharten an der Uni Marburg im Wintersemester 2023/24. Alle Informationen sind aus den Texten der Übung, Seminar und Tutorium zusammengetragen.\nAuf der linken Seite findet ihr die infos aus dem Ziegler seminar und aus der R übung von Borucki so wie übungsaufgaben und fragen welche mit ChatGPT erstellt worden und auf den Inhalten der Seminare beruhen.\nAlle Angaben sind nicht durch angestellte der Uni Marburg auf ihre richtigkeit geprüft worden."
+  },
+  {
+    "objectID": "R_und_Statistik/univariante-Analyse.html",
+    "href": "R_und_Statistik/univariante-Analyse.html",
+    "title": "univariante-Analyse",
+    "section": "",
+    "text": "Was ist das wofür braucht man das?"
+  }
+]

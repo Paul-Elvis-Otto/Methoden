@@ -1,0 +1,38 @@
+project:
+  type: website
+
+website:
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - Einleitung.qmd
+
+
+      - section: "R und Statistik"
+        contents:
+          - index.qmd
+          - R_und_Statistik/univariante-Analyse.qmd
+          - basics-jupyter.qmd
+
+          
+      - section: "Qual und Quant"
+        contents:
+          - layout-knitr.qmd
+          - layout-jupyter.qmd
+      - section: "Übungsaufgaben"
+        contents: 
+          - Übungsaufgaben/ChatGPT.qmd
+          - Übungsaufgaben/Ilias.qmd
+
+      - about.qmd
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
